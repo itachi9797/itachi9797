@@ -11,8 +11,6 @@
   </a>
 </div>
 
-<p align="center">⚡ I'm currently working avon</p>
-
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1182229084391079936/1182430389403385917/kurama-naruto.gif?ex=6584ab1d&is=6572361d&hm=b8c2fe061d6f47d2e709ed1d9b152c8d32c321649c5dbda2a0e1f2d78f82138a&" alt="Sikey GIF">
 </p>
