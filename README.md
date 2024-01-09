@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/sikey-dev">Sikey</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/itachi9797">Sikey</a>!</h1>
 <h1 align="center">Intermediate Developer</h1>
 
 <p align="center">
-  <strong><a href="https://discord.gg/ekiss">Discord</a></strong> |
+  <strong><a href="https://discord.gg/79dev">Discord</a></strong> |
 </p>
 
 <div align="center">
