@@ -2,7 +2,7 @@
 <h1 align="center">Intermediate Developer</h1>
 
 <p align="center">
-  <strong><a href="https://discord.gg/79dev">Discord</a></strong> |
+  <strong><a href="https://discord.gg/79dev">Discord</a></strong>
 </p>
 
 <div align="center">
